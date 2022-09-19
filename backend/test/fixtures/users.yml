@@ -1,0 +1,43 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  last_name: MyText
+  first_name: MyText
+  date_of_birth: 2022-09-18
+  strength: 1
+  defence: 1
+  agility: 1
+  intelligence: 1
+  luck: 1
+  memo01: MyText
+  memo02: MyText
+  memo03: MyText
+  memo04: MyText
+  memo05: MyText
+  memo06: MyText
+  memo07: MyText
+  memo08: MyText
+  memo09: MyText
+  memo10: MyText
+  deleted_at: 2022-09-18 18:27:34
+
+two:
+  last_name: MyText
+  first_name: MyText
+  date_of_birth: 2022-09-18
+  strength: 1
+  defence: 1
+  agility: 1
+  intelligence: 1
+  luck: 1
+  memo01: MyText
+  memo02: MyText
+  memo03: MyText
+  memo04: MyText
+  memo05: MyText
+  memo06: MyText
+  memo07: MyText
+  memo08: MyText
+  memo09: MyText
+  memo10: MyText
+  deleted_at: 2022-09-18 18:27:34
