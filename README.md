@@ -142,3 +142,5 @@ update column for each    1.473418   0.260290   1.733708 (  4.719538)
 bulk update by model      1.548145   0.012880   1.561025 (  4.315858)
 bulk update by hash       0.947707   0.003895   0.951602 (  5.242057)
 ```
+### テストコード
+https://github.com/knsk765/db-performance/blob/main/backend/lib/benchmarks/bulk_import_benchmark.rb
